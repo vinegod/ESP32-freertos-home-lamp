@@ -1,0 +1,8 @@
+.cache
+.devcontainer
+.vscode
+build/
+managed_components/
+main/.interupts.c.bak
+dependencies.lock
+sdkconfig
